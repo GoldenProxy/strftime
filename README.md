@@ -1,5 +1,5 @@
 # strftime()
-A JavaScript port of [`strftime()`](http://man7.org/linux/man-pages/man3/strftime.3.html), a function to format the date and time.
+A Typescript port of [`strftime()`](http://man7.org/linux/man-pages/man3/strftime.3.html), a function to format the date and time.
 
 ### Supported conversion specifications:
 
